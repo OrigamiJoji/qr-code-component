@@ -16,7 +16,7 @@ QR code card component
 
 ### Screenshot
 
-![](./demo_images/qr1.png)
+![](./qr1.png)
 
 ### Links
 
