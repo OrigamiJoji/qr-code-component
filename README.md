@@ -10,8 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 QR code card component
@@ -19,12 +17,11 @@ QR code card component
 ### Screenshot
 
 ![](./demo_images/qr1.png)
-![](./demo_images/qr2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/origamijoji/qr-code-component](https://github.com/origamijoji/qr-code-component)
+- Live Site URL: [origamijoji-qrcode.netlify.app](https://origamijoji-qrcode.netlify.app/)
 
 ### Built with
 
