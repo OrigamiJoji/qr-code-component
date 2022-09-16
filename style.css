@@ -5,18 +5,14 @@ html {
     font-family: Outfit;
 }
 
-.page {
+main {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
-.header {
-    text-align: center;
-}
-
-.qr-card {
+main div {
     margin-top: 100px;
     display: flex;
     flex-direction: column;
@@ -34,14 +30,14 @@ img {
     width: 270px;
 }
 
-.qr-header {
+h1 {
     font-weight: 700;
     margin-top: 20px;
     text-align: center;
     font-size: 20px;
 }
 
-.qr-text {
+p {
     color: hsl(220, 15%, 55%);
     margin-top: 15px;
     font-size: 15px;
